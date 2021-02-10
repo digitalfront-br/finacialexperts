@@ -130,6 +130,13 @@ color: #fff;
                                         <input class="uk-input rounded" id="phone" name="phone" placeholder="Telefone (opcional)"
                                             type="text" />
                                     </div>
+                                    <div class="checkbox-list" data-required="true">
+                                        <div class="checkbox">
+                                          <label class="fixed">
+                                          <input id="LGPDValidation" name="LGPDValidation" required type="checkbox" style="-webkit-appearance: auto !important;" value="1">&nbsp;Sim, desejo receber informações no meu e-mail.
+                                          </label>
+                                        </div>
+                                      </div>
                                     <button class="uk-button uk-button-secondary uk-button-large uk-width-1-1 rounded" type="submit">Quero
                                         mudar o futuro do
                                         meu filho!</button>
