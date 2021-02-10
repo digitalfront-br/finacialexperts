@@ -168,12 +168,7 @@ color: #fff;
                     <img src="{{ asset('img/icon4.png') }}" alt="">
                 </div>
             </div>
-            <div class="uk-grid uk-grid-small uk-child-width-1-1 uk-child-width-1-2@s uk-child-width-1-3@m uk-flex-middle">
-                <div class="uk-width-1-1@s uk-width-1-3@m uk-margin-bottom">
-                    <div class="uk-padding-small">
-                        <h3 class="uk-text-bold">Poder <br>Transformador da educação financeira.</h3>
-                    </div>
-                </div>
+            <div class="uk-grid uk-grid-small uk-child-width-1-1 uk-child-width-1-2@s  uk-flex-middle">
                 <div>
                     <ul class="uk-list uk-list-disc">
                         <li>Fórmula do sucesso financeiro</li>
