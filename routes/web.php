@@ -17,6 +17,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/aHR0cHM6Ly9mdXR1cm9kb3NldWZpbGhvLmNvbS5ici8=financialexperts', function () {
+    return view('welcome-back');
+});
+
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');
 })->name('dashboard');
