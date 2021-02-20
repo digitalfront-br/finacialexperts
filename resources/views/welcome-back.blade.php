@@ -169,7 +169,7 @@
                         </div>
                         <div class="uk-card-body">
                             <h3 class="uk-card-title">Visao geral educação financeira</h3>
-                            <p><span uk-icon="icon: clock"></span> Duração - 18:32:15</p>
+                            <p><span uk-icon="icon: clock"></span> Duração - 8:40</p>
                         </div>
                     </div>
                 </div>
@@ -182,7 +182,7 @@
                         </div>
                         <div class="uk-card-body">
                             <h3 class="uk-card-title">Educacao financeira na prática</h3>
-                            <p><span uk-icon="icon: clock"></span> Duração - 18:32:15</p>
+                            <p><span uk-icon="icon: clock"></span> Duração - 8:35</p>
                         </div>
                     </div>
                 </div>
@@ -195,7 +195,7 @@
                         </div>
                         <div class="uk-card-body">
                             <h3 class="uk-card-title">Tripe de ouro</h3>
-                            <p><span uk-icon="icon: clock"></span> Duração - 18:32:15</p>
+                            <p><span uk-icon="icon: clock"></span> Duração - 2:09</p>
                         </div>
                     </div>
                 </div>
@@ -208,7 +208,7 @@
                         </div>
                         <div class="uk-card-body">
                             <h3 class="uk-card-title">Dicas sobre como pagar a mesada do seu filho</h3>
-                            <p><span uk-icon="icon: clock"></span> Duração - 18:32:15</p>
+                            <p><span uk-icon="icon: clock"></span> Duração - 1:20</p>
                         </div>
                     </div>
                 </div>
