@@ -163,7 +163,7 @@
                 <div>
                     <div class="uk-card uk-card-hover uk-border-rounded uk-margin-bottom">
                         <div class="uk-card-media-top" uk-lightbox>
-                            <a href="https://www.youtube.com/watch?v=yRr0_gJ-3mI" data-caption="Visao geral educação financeira">
+                            <a href="https://www.youtube.com/watch?v=vu_rjV6g2EA&feature=youtu.be" data-caption="Visao geral educação financeira">
                                 <img src="{{ asset('img/video1.png') }}" alt="">
                             </a>
                         </div>
@@ -176,7 +176,7 @@
                 <div>
                     <div class="uk-card uk-card-hover uk-border-rounded uk-margin-bottom">
                         <div class="uk-card-media-top" uk-lightbox>
-                            <a href="https://www.youtube.com/watch?v=yRr0_gJ-3mI" data-caption="Educacao financeira na prática">
+                            <a href="https://www.youtube.com/watch?v=G7OxMtwiC4w&feature=youtu.be" data-caption="Educacao financeira na prática">
                                 <img src="{{ asset('img/video2.png') }}" alt="">
                             </a>
                         </div>
@@ -189,7 +189,7 @@
                 <div>
                     <div class="uk-card uk-card-hover uk-border-rounded uk-margin-bottom">
                         <div class="uk-card-media-top" uk-lightbox>
-                            <a href="https://www.youtube.com/watch?v=yRr0_gJ-3mI" data-caption="Tripe de ouro">
+                            <a href="https://www.youtube.com/watch?v=bxrobYdu2Xo&feature=youtu.be" data-caption="Tripe de ouro">
                                 <img src="{{ asset('img/video3.png') }}" alt="">
                             </a>
                         </div>
@@ -202,7 +202,7 @@
                 <div>
                     <div class="uk-card uk-card-hover uk-border-rounded uk-margin-bottom">
                         <div class="uk-card-media-top" uk-lightbox>
-                            <a href="https://www.youtube.com/watch?v=yRr0_gJ-3mI" data-caption="Dicas sobre como pagar a mesada do seu filho">
+                            <a href="https://www.youtube.com/watch?v=sTBlBLevaWg&feature=youtu.be" data-caption="Dicas sobre como pagar a mesada do seu filho">
                                 <img src="{{ asset('img/video3.png') }}" alt="">
                             </a>
                         </div>
