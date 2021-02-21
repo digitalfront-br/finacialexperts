@@ -21,7 +21,7 @@
             font-family: 'Work Sans', sans-serif;
         }
         .welcome-back, .uk-background-secondary2{
-            background: #1e0fca;
+            background: #132146;
         }
 
         .foto {
@@ -37,7 +37,7 @@
         }
         .barra-banner2  {
             height: 150px;
-            background: linear-gradient(180deg, rgba(30,15,202,0) 0%, rgba(30,15,202,1) 90%);
+            background: linear-gradient(180deg, rgba(30,15,202,0) 0%, rgb(6, 0, 75) 90%);
         }
         .foto2 img {
             padding: 50px 0 0 0;
@@ -53,7 +53,7 @@
             background: #132146;
         }
         h2, h3, h4 {
-            color: #1e0fca
+            color: #132146
         }
         .uk-light {
         color: #fff;
@@ -103,11 +103,14 @@
 
 <body class="antialiased">
     <div class="uk-position-relative" id="formulario-inscricao" uk-scrollspy="cls: uk-animation-fade; repeat: true">
-        <div class="uk-position-absolute uk-position-right">
+        <div class="uk-position-absolute uk-position-right  uk-visible@s">
             <img src="{{ asset('img/bg-topo.png') }}" alt="">
         </div>
-        <div class="uk-height-1-1 uk-flex uk-flex-column uk-flex-middle uk-background-cover welcome-back"
-            data-src="{{ asset('img/bg-bottom.png') }}" style="background-repeat: no-repeat; background-position: bottom left" uk-img>
+        <div class="uk-position-absolute uk-position-bottom uk-visible@s">
+            <img src="{{ asset('img/bg-bottom.png') }}" alt="">
+        </div>
+        <div class="uk-height-1-1 uk-flex uk-flex-column uk-flex-middle welcome-back"
+             >
             <div class="uk-section uk-section-small uk-width-1-1">
                 <nav class="uk-container uk-navbar-transparent" uk-navbar>
                     <div class="uk-navbar-left">
@@ -145,7 +148,7 @@
                 </div>
             </div>
         </div>
-        <div class="barra-banner2 uk-flex uk-flex-between uk-position-absolute uk-position-bottom uk-width-1-1">
+        <div class="barra-banner2 uk-flex uk-flex-between uk-position-absolute uk-position-bottom uk-width-1-1 uk-visible@s">
 
         </div>
     </div>
@@ -232,7 +235,7 @@
                                     <span style="
                                 background: #3cefa2;
                                 border-radius: 10px;
-                                color: #1e0fca;
+                                color: #132146;
                                 padding: 2px;
                                 line-height: 0;
                                 margin-right: 12px;
